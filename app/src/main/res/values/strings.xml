@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NIHALX</string>
+    <string name="brand_tagline">AI • WEB • ANDROID • DIGITAL INNOVATION</string>
+    <string name="owner_full_name">Nihal Sain</string>
+    <string name="owner_location">Agra, Uttar Pradesh, India</string>
+    <string name="owner_phone">9368276066</string>
+    <string name="owner_email">nihalsain918@gmail.com</string>
+    <string name="owner_instagram_handle">@Iamnihalsain</string>
+    <string name="owner_instagram_url">https://www.instagram.com/iamnihalsain/</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+    <string name="nav_skills">Skills</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_services">Services</string>
+    <string name="nav_contact">Contact</string>
+
+    <string name="cd_brand_logo">NIHALX Brand Emblem</string>
+    <string name="cd_creator_avatar">Nihal Sain Profile Emblem</string>
+    <string name="cd_projects_empty">No projects blueprint illustration</string>
+    <string name="cd_add_project">Add new project</string>
+    <string name="cd_pick_image">Choose project screenshot</string>
+    <string name="cd_copy_value">Copy to clipboard</string>
+
+    <string name="action_call_now">Call Now</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="action_email">Email</string>
+    <string name="action_instagram">Instagram</string>
+    <string name="action_add_project">Add Real Project</string>
+    <string name="action_save_project">Save Project</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_open_link">Open Link</string>
+
+    <string name="error_no_dialer">No phone dialer app found on this device.</string>
+    <string name="error_no_email">No email app found. Email copied to clipboard.</string>
+    <string name="error_no_browser">No app found to open this link.</string>
+    <string name="error_invalid_url">Please enter a valid http/https URL.</string>
+</resources>

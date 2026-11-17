@@ -1,0 +1,6 @@
+{
+  "name": "NIHALX",
+  "description": "Premium personal portfolio Android application for Nihal Sain (NIHALX) showcasing personal bio, education, technical skills, projects, services, and instant contact links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
